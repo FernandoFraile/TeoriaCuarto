@@ -1,0 +1,18 @@
+Tim Berners Lee->Británico, era físico. Trabajaba en el CERN. Definió el lenguaje html, con unas reglas de carácter universal,
+
+HTML: 
+	-Universalidad: reglas comunes para todos. 
+	-Lenguaje de marcas: 
+		Con unicode para representar los colores necesito 24 bits adicionales, para los tipos de letra 9. 
+		Son demasiados. Con el lenguaje de marcas, puedo poner una marca para indicar todo esto, y me evito 
+		añadir más bits. Es decir, las variantes no se codifican con 0 y 1. 
+	-Hipertexto: enlazar los texto. Pinchando en uno me lleva a otro, de la misma o de distinta máquina. 
+
+Microsoft echó abajo Netscape poniendo etiquetas que solo podía abrir internet explorer. Netscape había violado el
+principio de universalidad. 
+
+Index.html es el nombre por defecto de los servidores. Es el documento que se abre cuando entro en una página, 
+por ejemplo, al abrir la página de la universidad. 
+
+ICANN->se encarga de almacenar todos los posibles nombres que puedes coger. El WHOIS es el archivo del ICANN y el
+DNRD es donde están los dominios. No hay relación directa con el ICANN. 
